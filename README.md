@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 # Setup
 ```
 npm i
-npm run devf
+npm run dev
 ```
 
 ## Expanding the ESLint configuration
