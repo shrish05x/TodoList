@@ -9,7 +9,9 @@ Currently, two official plugins are available:
 
 
 # Setup
-``` npm i
+```
+npm i
+npm run devf
 ```
 
 ## Expanding the ESLint configuration
